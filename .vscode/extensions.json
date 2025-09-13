@@ -1,0 +1,4 @@
+{
+  "recommendations": ["biomejs.biome", "github.vscode-pull-request-github", "vitest.explorer"],
+  "unwantedRecommendations": []
+}
